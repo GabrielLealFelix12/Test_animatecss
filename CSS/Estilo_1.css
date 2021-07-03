@@ -1,0 +1,80 @@
+
+
+@font-face {
+    font-family: 'vt323regular';
+    src: url('vt323-regular-webfont.woff2') format('woff2'),
+         url('vt323-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+#anim {
+	color: red;
+	font-family: 'vt323regular';
+	font-size: 90px;
+	position: absolute;
+	left: 601px;
+	top:120px;
+}
+html {
+	background-color: black; 
+}
+
+#butao {
+ width: 612px;
+  position: relative;
+  bottom: -320px;
+  left: 380px;
+  margin: 13px 0 12px 14px;
+  padding: 27px;
+}
+
+#sagaz {
+	font-family: 'vt323regular';
+    background-color: #2C1FD4; 
+	color: #FFFFFF;
+    border-radius: 9%;
+    font-size: 27px;
+   padding: 9px 46px;
+   position: relative;
+   left: -32px;
+   transition-duration: 0.4s;
+}
+#sagaz:hover {
+	background-color: #E70606;
+}
+
+#g_g {
+    font-family: 'vt323regular';
+    background-color: #2C1FD4; 
+	color: #FFFFFF;
+    border-radius: 9%;
+    font-size: 27px;
+   padding: 9px 46px;
+   position: relative;
+   left: -12px;
+   transition-duration: 0.4s;
+}
+
+#g_g:hover {
+	background-color: #E70606;
+}
+
+#botao3 {
+    font-family: 'vt323regular';
+	background-color: #2C1FD4; 
+	color: #FFFFFF;
+    border-radius: 9%;
+    font-size: 27px;
+    padding: 9px 46px;
+    transition-duration: 0.4s;
+}
+
+#botao3:hover {
+	background-color: #E70606;
+}
+
